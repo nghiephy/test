@@ -1,3 +1,7 @@
 hello chanel 
 cố ý để thêm vào để commit
+<<<<<<< HEAD
 hahah
+=======
+cố ý thêm vào để comflict
+>>>>>>> 211c8fd3d585e095cc122b9ad6022cf90f7126f8
